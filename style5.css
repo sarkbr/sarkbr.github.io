@@ -16,13 +16,13 @@ a.grey {
 
 a.header {
     text-decoration: none;
-    color: #366e87;
+    color: #7E082E;
     font-weight: bold;
 }
 
 a.headerselected {
     text-decoration: none;
-    color: #366e87;
+    color: #7E082E;
     font-weight: bold;
     text-decoration-line: underline;
 }
@@ -39,7 +39,7 @@ a.headerselected {
     right: 0;
     width: 0;
     bottom: 0px;
-    background: #366e87;
+    background: #7E082E;
     height: 1.0px;
     transition-property: width;
     transition-duration: 0.2s;
@@ -54,7 +54,7 @@ a.headerselected {
   }
 
 a.file {
-    color: #c65656;
+    color: #7E082E;
 }
 
 #container {
