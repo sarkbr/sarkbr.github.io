@@ -1,7 +1,7 @@
 body {
     background-color: #f1f1f1;   
     color: #000000;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 a {
@@ -152,3 +152,4 @@ a.file {
 #talkslist2 {
     text-align:justify;
 }
+
